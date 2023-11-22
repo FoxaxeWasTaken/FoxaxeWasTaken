@@ -5,7 +5,7 @@
 
 ## About me
 - 🏫 I'm a student at [EPITECH](https://www.epitech.eu/) Nantes
-- 🤓 You can call me a weeb as I love anime and manga and play video games
+- 🤓 You can call me a weeb as I love anime, manga and play video games
 - 💾 Passionate about computer science, new technologies and embedded systems
 
 ## IRL
