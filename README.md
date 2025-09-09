@@ -5,7 +5,7 @@
 
 ## About me
 - 🏫 I'm a student at [EPITECH](https://www.epitech.eu/) Paris
-- ✈️ 2024-2025 Exchange student at [SIT Tokyo](https://www.shibaura-it.ac.jp/en/)
+- ✈️ 2024-2025 Exchange student at [SIT](https://www.shibaura-it.ac.jp/en/) Tokyo
 - 🤓 You can call me a weeb as I love anime, manga and play video games
 - 💾 Passionate about computer science, new technologies and embedded systems
 
