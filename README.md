@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/FoxaxeWasTaken/FoxaxeWasTaken/blob/main/assets/your-name.gif">
+    <img src="https://github.com/FoxaxeWasTaken/FoxaxeWasTaken/blob/main/assets/your-name.webp">
 </p>
 <h1 align="center">Hi there, I'm Axel 👋</h1>
 
